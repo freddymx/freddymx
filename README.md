@@ -16,7 +16,7 @@ Soy Alfredo, un desarrollador backend con más de 20 años de experiencia, espec
 
 ## 🌱 I’m currently learning ...
 
-- Implementación de agentes de IA locales en macOS (probando QEN 2.5 Coder 32B)
+- Implementación de agentes de IA locales en macOS (probando DeepSeek-R1-Distill-Qwen-14B)
 - Integración avanzada de módulos en FilamentPHP
 - Estrategias de almacenamiento y CDN para sitios con alto volumen de imágenes
 
